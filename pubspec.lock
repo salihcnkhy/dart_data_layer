@@ -107,7 +107,7 @@ packages:
     description:
       path: "."
       ref: master
-      resolved-ref: "260f2283ed748c2a6f08d4a69b3d9d24ed0d2931"
+      resolved-ref: "7256e0a287f57a61a412de4ed1fcc36adf180084"
       url: "https://github.com/salihcnkhy/dart_network_layer.git"
     source: git
     version: "0.0.1"
